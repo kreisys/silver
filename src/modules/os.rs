@@ -22,6 +22,7 @@ pub fn segment(segment: &mut Segment, _: &[&str]) {
         "debian" => icons::get("debian"),
         "fedora" => icons::get("fedora"),
         "linuxmint" => icons::get("mint"),
+        "nixos" => icons::get("NixOS"),
         "suse" | "opensuse" => icons::get("SUSE"),
         "ubuntu" => icons::get("ubuntu"),
         "elementary" => icons::get("elementary"),
