@@ -14,6 +14,7 @@ pub fn get(id: &str) -> String {
                         "debian" => "\u{f306}",     // Font Linux
                         "fedora" => "\u{f30a}",     // Font Linux
                         "mint" => "\u{f30e}",       // Font Linux
+                        "NixOS" => "\u{f313}",      // Font Linux
                         "SUSE" => "\u{f314}",       // Font Linux
                         "ubuntu" => "\u{f31b}",     // Font Linux
                         "elementary" => "\u{f309}", // Font Linux
